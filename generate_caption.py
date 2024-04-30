@@ -7,9 +7,7 @@ import numpy as np
 import cv2
 import torch
 import torchvision.transforms as transforms
-import os
 import sys
-import matplotlib.pyplot as plt
 
 
 MAX_LEN = 34
