@@ -57,4 +57,4 @@ with torch.no_grad():
 
 
 # Save the trained model
-base_model.save('/Users/batuhanbasak/Desktop/model_scripted.pt')
+base_model.save('model_scripted.pt')
