@@ -120,7 +120,7 @@ def generate_caption(model, img, max_len=34):
 
     y_in = y_in.squeeze(0).tolist()
     for idx in y_in:
-        if idx == word_to_idx['<pad>']:
+        if idx == word_to_idx['<pad>'] or idx == word_to_idx['<start>'] or idx == word_to_idx['<end>']:
             continue
         caption.append(vocabulary[idx])
 
