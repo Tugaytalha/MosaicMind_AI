@@ -1,0 +1,11 @@
+{
+    "model1": "/home/alierdem/Desktop/thirdGrade/MosaicMind/receive_model/model1.pt",
+    "model2": "/home/alierdem/Desktop/thirdGrade/MosaicMind/receive_model/model2.pt",
+    "model3": "/home/alierdem/Desktop/thirdGrade/MosaicMind/receive_model/model3.pt",
+    "model4": "/home/alierdem/Desktop/thirdGrade/MosaicMind/receive_model/model4.pt",
+    "base_model": "/home/alierdem/fl-demo/model_scripted.pt",
+    "model1_num": 1,
+    "model2_num": 2,
+    "model3_num": 3,
+    "model4_num": 4
+}
